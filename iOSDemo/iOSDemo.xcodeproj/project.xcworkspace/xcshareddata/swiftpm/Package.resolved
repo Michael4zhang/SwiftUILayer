@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "CommonExtension",
+        "repositoryURL": "git@github.com:Michael4zhang/SwiftUICommonExtension.git",
+        "state": {
+          "branch": "main",
+          "revision": "fec28316b0b2527178a9eeba24cd46ad733332f8",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
